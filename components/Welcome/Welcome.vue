@@ -4,6 +4,7 @@
       <div class="flex justify-center">
         <img src="/logo.png" alt="Logo" class="h-10">
       </div>
+      <h3>it's not</h3>
       <h1 class="text-display-sm font-semibold text-center dark:text-slate-200 text-slate-900">
         Welcome to Morpheme!
       </h1>
